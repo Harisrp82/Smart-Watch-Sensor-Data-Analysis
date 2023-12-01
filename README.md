@@ -30,13 +30,5 @@ Splitting:
 
 Data split into 80:20 training and testing sets.
 # Machine Learning Models
-Evaluated Random Forest and Decision Tree effectiveness for activity identification.
-
-Random Forest:
-
-Combined decision trees, reducing overfitting.
-Suited for high-dimensional datasets.
-Decision Tree:
-
-Flowchart-like model, handling numerical and categorical data.
-Conclusion
+1. Random Forest(RF)
+2. Decision Tree
